@@ -8,10 +8,6 @@
             "id": "1055899770675286057"
         }
     ],
-    "background": {
-        "blur": 0,
-        "url": "https://raw.githubusercontent.com/Nynd578/raincord-theme/refs/heads/main/bg.gif"
-    },
     "semanticColors": {
         "ANDROID_RIPPLE": [
             "#FFFFFF20",
@@ -652,7 +648,7 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://raw.githubusercontent.com/cxsirr/theme/refs/heads/main/assets/rain.gif"
+        "url": "https://raw.githubusercontent.com/Nynd578/raincord-theme/refs/heads/main/bg.gif"
     },
     "spec": 2
 }
