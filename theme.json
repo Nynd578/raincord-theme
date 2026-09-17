@@ -1,11 +1,11 @@
 {
-    "name": "Monolith OLED",
-    "description": "Monolith on true black. Pixels off, infinite contrast.",
+    "name": "Coolest theme",
+    "description": "Based off of Monolith OLED by Ace",
     "version": "1.0",
     "authors": [
         {
-            "name": "Ace",
-            "id": "1225921043559088138"
+            "name": "Nynd578",
+            "id": "1055899770675286057"
         }
     ],
     "background": {
